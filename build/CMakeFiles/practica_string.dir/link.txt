@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/practica_string.dir/Callbacks.cpp.o -o practica_string 
